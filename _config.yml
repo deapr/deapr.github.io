@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Welcome to homepage
 name: Domething
 description: feel free
+markdown: kramdown
