@@ -1,7 +1,3 @@
----
-layout: post
-title: Meow
----
+## Welcome to GitHub Pages
 
-Hello
-
+In N-dimensional simplex noise, the squared kernel summation radius
